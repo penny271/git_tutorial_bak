@@ -1,2 +1,3 @@
 # local historyのファイルは反映させない
 .history/
+secret.txt

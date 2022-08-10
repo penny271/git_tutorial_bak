@@ -1,0 +1,94 @@
+20220809
+lec18
+git init
+
+-all
+ls -a
+
+ls .git/
+
+
+lec19
+
+git clone https://github.com/atom/atom.git
+
+lec20
+git add .        -全て
+git add index.html
+
+
+lec21
+git commit -v
+git commit -m "メッセージ"
+
+lec22
+git status
+
+lec23
+git diff
+git diff <ファイル名>
+
+#git addした後の変更分
+git diff --staged
+
+lec 24
+#変更履歴を確認する
+git log
+
+git log --oneline
+
+git log -p index.html
+
+git log -n <コミット数>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
